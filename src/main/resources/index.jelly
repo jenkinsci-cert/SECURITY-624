@@ -1,0 +1,4 @@
+<?jelly escape-by-default='true'?>
+<div>
+    This plugin prevents the saving of unsafe values for tool installer names due to the SECURITY-624 security vulnerability.
+</div>
